@@ -8,7 +8,7 @@
 
 
 ## 💻 Projeto
-Aplicativo que dar acesso a algumas das minhas redes sociais.
+Exemplo de site de receita.
 
 ## 🔃 Requisitos para utilizar
 
@@ -21,7 +21,7 @@ Aplicativo que dar acesso a algumas das minhas redes sociais.
 
 ## :hammer_and_wrench: Features 
 
--   [ ] É possível acessar as minhas redes sociais por essa aplicação.
+-   [ ] É possível ver como funciona uma página de receita.
 
 ## 🆚 Versionamento / Versioning
 
@@ -29,15 +29,15 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://silasfmartins.github.io/social-tree/ .
+É possível acessar a aplicação através da URL: https://silasfmartins.github.io/pagina-receita/ .
 
 ## 👨‍💻 Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/social-tree/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/pagina-receita/blob/master/Contributing.md)
 
 ## 💿 Histórico / History
 
-Consulte [Releases](https://github.com/silasfmartins/social-tree/releases) para ter um changelog completo.
+Consulte [Releases](https://github.com/silasfmartins/pagina-receita/releases) para ter um changelog completo.
 
 ## 📄 Licença do Projeto/License
 
