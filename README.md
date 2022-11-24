@@ -41,6 +41,6 @@ Consulte [Releases](https://github.com/silasfmartins/pagina-receita/releases) pa
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/social-tree/blob/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/pagina-receita/blob/main/LICENSE) © Silas Martins para mais detalhes.
 
 <br />
