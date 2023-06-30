@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #eaeaea;
+  font-family: 'Roboto', sans-serif;
+  transition: background 0.2s linear;
+  padding: 1rem;
+}
+
+header {
+  display: flex;
+  justify-content: end;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+
+input {
+  opacity: 0;
+  position: absolute;
+  display: flex;
+  justify-content: end;
+}
+
+label {
+  padding: 1rem;
+  width: 10rem;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+  height: 0.5rem;
+  background: #000000;
+  justify-content: space-around;
+  gap: 3rem;
+  right: 2rem;
+}
+
+input:checked + label .ball {
+  margin-left: 10rem;
+  transform: translateX(4px);
+}
+
+.ball {
+  border-radius: 100%;
+  padding: 1rem;
+  background: #F1F1F1;
+  transition: transform 0.2s linear;
+  cursor: pointer;
+  position: absolute;
+  margin-right: 5rem;
+}
+
+body.dark {
+  background: #292C35;
+}
+
+body.dark main {
+  background: rgb(24 24 27);
+}
+
+body.dark h1 {
+  color: white;
+}
+
+body.dark h2 {
+  color: white;
+}
+
+body.dark span {
+  color: white;
+}
+
+body.dark li {
+  color: white;
+}
+
+body.dark p {
+  color: white;
+}
+
+body.dark a {
+  color: white;
+}
+
+#current-theme {
+  display: none;
+}
+
+main {
+  background: #FFFFFF;
+  max-width: 62.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  padding: 5%;
+  margin-top: 1rem;
+}
+
+h1 {
+  padding-top: 10%;
+  text-align: center;
+  color: #1B1B1B;
+  font-weight: 700;
+  font-size: 1.75rem;
+  margin-top: 2rem;
+}
+
+img {
+  border-radius: 8px;
+  max-width: 90%;
+  height: 16rem;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  text-align: right;
+  margin-right: 5%;
+  margin-top: 1%;
+  color: #8F8F8F;
+  font-weight: 400;
+  font-size: 0.75rem;
+}
+h2 {
+  text-align: center;
+  color: #1B1B1B;
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.items {
+  margin-left: 8%;
+}
+
+span {
+  color: #1B1B1B;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+li {
+  color: #39393A;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+ul, ol {
+  line-height: 26px;
+}
+
+p {
+  padding: 5%;
+  color: #39393A;
+  font-size: 1rem;
+}
+
+footer {
+  padding: 5%;
+  text-align: center;
+}
+
+#span-footer {
+  color: #8F8F8F;
+  font-weight: 400;
+  font-size: 0.75rem;
+}
