@@ -17,6 +17,8 @@ function changeTheme() {
     body.classList.add('light')
     localStorage.setItem("theme", "dark")
   }
+  document.getElementById("current-theme").innerHTML = localStorage.theme
 }
 
 body.classList.add(localStorage.getItem("theme"))
+document.getElementById("currentTheme").innerHTML = localStorage.theme
