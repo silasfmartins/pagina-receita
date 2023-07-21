@@ -1,5 +1,4 @@
 const body = document.querySelector('body')
-const main = document.querySelector('main')
 const checkbox = document.querySelector("#checkbox")
 
 checkbox.addEventListener('change', changeTheme)
