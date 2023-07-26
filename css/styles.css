@@ -120,11 +120,15 @@ figure {
   text-align: center;
 }
 
+body.dark figcaption {
+  color: #b0aaaa;
+}
+
 figcaption {
   text-align: right;
   margin-right: 5%;
   margin-top: 1%;
-  color: #8F8F8F;
+  color: #2e2c2c;
   font-weight: 400;
   font-size: 0.75rem;
 }
@@ -169,8 +173,12 @@ footer {
   text-align: center;
 }
 
+body.dark #span-footer {
+  color: #b0aaaa;
+}
+
 #span-footer {
-  color: #8F8F8F;
+  color: #2e2c2c;
   font-weight: 400;
   font-size: 0.75rem;
 }
